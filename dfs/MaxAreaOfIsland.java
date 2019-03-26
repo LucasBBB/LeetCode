@@ -1,7 +1,7 @@
 package dfs;
 
 /**
- * 题目描述:
+ * LeetCode695.岛屿的最大面积:
  * https://leetcode-cn.com/problems/max-area-of-island
  * 给定一个包含了一些0和1的非空二维数组grid，一个岛屿是由四个方向（水平或垂直）的1（代表土地）构成的组合。
  * 你可以假设二维矩阵的四个边缘都被水包围着。
